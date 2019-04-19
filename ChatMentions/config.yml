@@ -10,7 +10,7 @@ playersMentions: 'true'
 
 # Notification methods
 sound: 'true'
-actionBarMessage: 'false'
+actionBarMessage: 'true'
 
 # Prefix configuration map.
 chatPrefix: '&5ChatMentions>>&6'
